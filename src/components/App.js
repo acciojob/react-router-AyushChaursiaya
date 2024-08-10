@@ -31,8 +31,8 @@ const LayOut = () => {
           </li>
         </ul>
       </nav>
-      <hr />
       <Outlet />
+      <hr />
     </div>
   )
 }
